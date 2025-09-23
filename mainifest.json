@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "My Funny Music Pack",
+    "description": "三首魔性音樂：希特勒貓 / 開學後我的心態 / 哈基米起床",
+    "uuid": "d3e0d6a1-5b8d-4a62-95fd-49a9b734a09a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a45663f3-82d7-4e3f-9a74-54126b4a88cf",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["YourName"]
+  }
+}

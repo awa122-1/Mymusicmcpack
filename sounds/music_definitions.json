@@ -1,0 +1,19 @@
+{
+  "music_definitions": {
+    "custom.song1": {
+      "sound": "sounds/song1.ogg",
+      "volume": 1.0,
+      "stream": true
+    },
+    "custom.song2": {
+      "sound": "sounds/song2.ogg",
+      "volume": 1.0,
+      "stream": true
+    },
+    "custom.song3": {
+      "sound": "sounds/song3.ogg",
+      "volume": 1.0,
+      "stream": true
+    }
+  }
+}
