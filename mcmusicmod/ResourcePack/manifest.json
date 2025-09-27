@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MCMusicMod Resource Pack",
+    "description": "来点小音乐吧awa",
+    "uuid": "2d9e0f77-92a2-4c39-8c60-aaa111111111",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3a5a0d9e-2cc3-4b2e-9e20-bbb222222222",
+      "version": [1, 0, 0]
+    }
+  ]
+}

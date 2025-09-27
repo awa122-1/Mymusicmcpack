@@ -1,0 +1,22 @@
+{
+  "music_definitions": {
+    "custom.song1": {
+      "category": "music",
+      "sounds": [
+        { "name": "sounds/song1", "stream": true }
+      ]
+    },
+    "custom.song2": {
+      "category": "music",
+      "sounds": [
+        { "name": "sounds/song2", "stream": true }
+      ]
+    },
+    "custom.song3": {
+      "category": "music",
+      "sounds": [
+        { "name": "sounds/song3", "stream": true }
+      ]
+    }
+  }
+}
