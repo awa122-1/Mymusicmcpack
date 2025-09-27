@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MCMusicMod Behavior Pack",
+    "description": "自定义音乐控制",
+    "uuid": "4f1d8a6a-1f6c-4fd0-b3e5-ccc333333333",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5e7b3f1d-6a42-4e8f-9c1a-ddd444444444",
+      "version": [1, 0, 0]
+    }
+  ]
+}

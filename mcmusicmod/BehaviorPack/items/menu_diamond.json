@@ -1,0 +1,16 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mcmusic:menu_diamond",
+      "category": "Misc",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "menu_diamond",
+      "minecraft:display_name": {
+        "value": "§b音乐菜单按钮"
+      }
+    }
+  }
+}
