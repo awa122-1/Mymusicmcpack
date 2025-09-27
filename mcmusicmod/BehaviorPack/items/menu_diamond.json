@@ -2,7 +2,7 @@
   "format_version": "1.16.100",
   "minecraft:item": {
     "description": {
-      "identifier": "mcmusic:menu_diamond",
+      "identifier": "music:menu_diamond",
       "category": "Misc",
       "register_to_creative_menu": true
     },
