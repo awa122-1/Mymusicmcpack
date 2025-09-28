@@ -5,7 +5,7 @@
     "description": "§b来点小音乐吧awa",
     "uuid": "2d9e0f77-92a2-4c39-8c60-aaa111111111",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 16, 0]
+    "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {

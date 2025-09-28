@@ -1,1 +1,1 @@
-give @p music:menu_diamond 1
+give @p mcmusic:menu_diamond 1

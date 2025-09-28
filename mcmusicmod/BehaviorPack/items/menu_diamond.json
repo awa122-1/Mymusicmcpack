@@ -1,16 +1,21 @@
 {
-  "format_version": "1.16.100",
-  "minecraft:item": {
+  "format_version": "1.20",
+  "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "music:menu_diamond",
-      "category": "Misc",
-      "register_to_creative_menu": true
+      "identifier": "mcmusic:menu_diamond_recipe"
     },
-    "components": {
-      "minecraft:icon": "menu_diamond",
-      "minecraft:display_name": {
-        "value": "§b音乐菜单按钮"
+    "tags": ["crafting_table"],
+    "pattern": [
+      "D"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:dirt"
       }
+    },
+    "result": {
+      "item": "mcmusic:menu_diamond",
+      "count": 1
     }
   }
 }
